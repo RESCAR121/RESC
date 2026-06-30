@@ -1,0 +1,8 @@
+@font-face {
+    font-family: font;
+    src: url(Freshman.ttf);
+}
+body{
+    font-family: font;
+    background-color: black;
+}
